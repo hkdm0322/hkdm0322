@@ -25,3 +25,10 @@ Here are some ideas to get you started:
     <a href="https://github.com/hkdm0322"><img src="https://img.shields.io/badge/Oracle-white?logo=oracle&logoColor=%23F80000"></a>
     <a href="https://github.com/hkdm0322"><img src="https://img.shields.io/badge/SWITCH-white?logo=nintendoswitch&labelColor=blue&color=%23E60012"></a>
 </p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,idea,jenkins,git,redis,kafka,docker,vscode,vue&theme=light" />
+  </a>
+</p>
